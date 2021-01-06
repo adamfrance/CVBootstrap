@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap-5.0.0-beta1-examples",
+			"path": "../../../../Downloads/bootstrap-5.0.0-beta1-examples"
+		},
+		{
+			"name": "Bootstrap",
+			"path": "../../../Bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap"
+	}
+}
